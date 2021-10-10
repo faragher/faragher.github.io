@@ -27,7 +27,7 @@ a {
   float: left;
   background-color: #222222;
   padding: 10px;
-  min-width: 2500px;
+  min-width: 250px;
   min-height: 200px;
 }
 
@@ -58,8 +58,8 @@ a {
 }
 
 /* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
-@media (max-width: 600px) {
-  .column.left, .column.main {
+@media (max-width: 500px) {
+  .column.main, .column.right {
     width: 100%;
   }
 }
