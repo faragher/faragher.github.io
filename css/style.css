@@ -27,7 +27,8 @@ a {
   float: left;
   background-color: #222222;
   padding: 10px;
-  height: 300px; /* Should be removed. Only for demonstration */
+  min-width: 400px;
+  min-height: 200px;
 }
 
 /* Left and right column */
