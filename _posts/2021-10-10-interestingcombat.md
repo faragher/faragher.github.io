@@ -3,7 +3,8 @@ layout: default
 title:  "Interesting Combat"
 ---
 
-##Creating an interesting combat system.
+# Creating an interesting combat system.
+
 There’s nothing worse than fake options. Gamers, myself included, have this tendency to not be happy until they turn any given system into a “solved game.” It doesn’t take long to find dozens of opinions on what’s overpowered, what’s useless, and what are optimal strategies, and these all have the same problem: they reduce the decision space. 
 
 One of the greatest strengths of Dark Souls is that while some builds are stronger than others, a quick visit to any message board will see the question “what’s the best weapon” with “it depends.” 
