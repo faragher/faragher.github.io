@@ -8,9 +8,11 @@ body {
   color: #EEEEEE;
 }
 
-a.link{
-  color=#eeeeee;
+
+a {
+  color: #eeeeee;
 }
+
 
 /* Style the header */
 .header {
